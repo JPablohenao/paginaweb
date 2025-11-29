@@ -72,7 +72,10 @@ body {
   align-items: center;
   gap: 2em;
 }
-
+p {
+  font-size: 1.2rem;
+  line-height: 1.7;
+}
 h1 {
   font-size: 4em;
 }
